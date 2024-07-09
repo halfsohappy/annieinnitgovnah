@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title:  "Why don’t I know how to feel about *The School for Scandal?*"
 date:   2024-07-09 14:46:42 +0100
-categories: Show Ruminations
+categories: Show_Ruminations
 ---
 Why don’t I know how to feel about *The School for Scandal*?
 
